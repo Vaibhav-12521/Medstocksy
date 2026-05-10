@@ -24,7 +24,7 @@ export default defineConfig(({ mode }) => ({
         name: 'Medstocksy Inventory',
         short_name: 'Medstocksy',
         description: 'Inventory management for modern medical stores — sales, purchases, returns, suppliers, and reports.',
-        theme_color: '#ea580c',
+        theme_color: '#ffffff',
         background_color: '#ffffff',
         display: 'standalone',
         display_override: ['standalone', 'minimal-ui', 'browser'],
